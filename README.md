@@ -1,5 +1,5 @@
 <h3 align="center"> 💛 Welcome to my Profile 💛</h3>
-<p align="center"> Hello my Name is Jasmine, currently I am a senior computer science student at CSULB. I  hope we can collaborate on future projects!</p>
+<p align="center"> Hello my name is Jasmine, currently I am a senior computer science student at CSULB. I  hope we can collaborate on future projects!</p>
 
 ---
 <h3 align="Center">Languages and Tools:</h3>
