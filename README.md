@@ -13,11 +13,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="Photoshop"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anarchopossum&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="anarchopossum" />
 </p>
-
----
-[comment]: <> (Stats:)
-<h3 align="center">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anarchopossum&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="anarchopossum" /></p>
-
