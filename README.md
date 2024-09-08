@@ -1,7 +1,3 @@
-<h3 align="center"> 💛 Welcome to my Profile 💛</h3>
-<p align="center"> Hello my name is Jasmine, currently I am fresh graduate from CSULB, I am mainly a full stack developer but love to try out different projects. I hope we can collaborate soon!</p>
-
----
 <h3 align="Center">Languages and Tools:</h3>
 <p align="Center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
